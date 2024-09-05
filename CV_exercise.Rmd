@@ -28,7 +28,11 @@ knitr::include_graphics("IMG_7990.JPG")
 
 ### Education
 
+<<<<<<< HEAD
 - Ph.D. Cornell University [**current**]{style="float:right"} Added random stuff
+=======
+- Ph.D. Cornell University [**current**]{style="float:right"}
+>>>>>>> 88e92627fe814ed89a4bd119c581efea65125884
     
 - M.S. Michigan Technological University [**2024**]{style="float:right"}
 
