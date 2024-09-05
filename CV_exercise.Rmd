@@ -28,7 +28,7 @@ knitr::include_graphics("IMG_7990.JPG")
 
 ### Education
 
-- PhDc. *Conell* University [**current**]{style="float:right"}
+- Ph.D. Cornell University [**current**]{style="float:right"} Added random stuff
     
 - M.S. Michigan Technological University [**2024**]{style="float:right"}
 
