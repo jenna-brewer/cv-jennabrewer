@@ -1,0 +1,70 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<center> <h1> Jenna Brewer </h1> </center>
+
+<center> <h3> PhD Student </h3> </center>
+
+<br>
+<p style="text-align:left;">
+email: jib73@cornell.edu
+<span style="float:right;"> updated Aug. 2024
+</span>
+</p>
+---
+<br>
+
+```{r out.width = ("20%"), echo=FALSE}
+knitr::include_graphics("/Users/jennabrewer/Downloads/IMG_7990.JPG")
+
+```
+
+### Education
+
+- PhDc. Cornell University [**current**]{style="float:right"}
+    
+- M.S. Michigan Technological University [**2024**]{style="float:right"}
+
+- B.S. Michigan Technological University [**2022**]{style="float:right"}
+
+<br>
+
+### Employment
+
+- *Bird-banding Crew Leader*, Michigan Technological University [**2023 - 2024**]{style="float:right"}
+
+
+- *Bird-banding Technician*, Michigan Technological University [**2020 - 2023**]{style="float:right"}
+    
+    
+- *Camera Trap Technician*, Michigan Technological University [**2019 - 2020**]{style="float:right"}
+
+
+- *Salamander Tagging Technician*, Michigan Technological University [**2019 - 2020**]{style="float:right"}  
+
+<br>
+
+### Skills
+
+- Feather growth rate measurements (Ptilochronology) 
+
+- Stable isotopic sample preparation
+
+- Corticosterone assay analysis
+
+- Autonomous recording unit acoustic survey and evaluation
+
+- DNA extractions
+
+- Biological data curation and organization
+
+
+
+
+
