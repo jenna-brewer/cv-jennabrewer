@@ -14,20 +14,21 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <p style="text-align:left;">
 email: jib73@cornell.edu
-<span style="float:right;"> updated Aug. 2024
+<span style="float:right;"> updated Aug. *2022*
 </span>
 </p>
 ---
 <br>
+---
 
-```{r out.width = ("20%"), echo=FALSE}
+```{r, fig.align="center", out.width = ("20%"), echo=FALSE}
 knitr::include_graphics("/Users/jennabrewer/Downloads/IMG_7990.JPG")
 
 ```
 
 ### Education
 
-- PhDc. Cornell University [**current**]{style="float:right"}
+- PhDc. *Conell* University [**current**]{style="float:right"}
     
 - M.S. Michigan Technological University [**2024**]{style="float:right"}
 
