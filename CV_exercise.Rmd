@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center> <h3> PhD Student </h3> </center>
 
-<br>
+<br> 
 <p style="text-align:left;">
 email: jib73@cornell.edu
 <span style="float:right;"> updated Aug. *2022*
