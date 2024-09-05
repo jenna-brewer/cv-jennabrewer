@@ -22,7 +22,7 @@ email: jib73@cornell.edu
 ---
 
 ```{r, fig.align="center", out.width = ("20%"), echo=FALSE}
-knitr::include_graphics("/Users/jennabrewer/Downloads/IMG_7990.JPG")
+knitr::include_graphics("IMG_7990.JPG")
 
 ```
 
